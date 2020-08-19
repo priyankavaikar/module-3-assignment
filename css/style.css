@@ -1,0 +1,139 @@
+body{
+	font-size: 16px;
+	color: black;
+	background-color: #8A2BE2;
+	font-family: Arial;
+}
+#header-nav{
+	background-color: #CD853F;
+	border-radius: 0;
+	border:0;
+}
+.container{
+	border:none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+p{
+	padding: 10px;
+	margin: 0;
+	font-size: 40px;
+	color: black;
+
+}
+.content{
+	padding: 10px;
+	margin: 0;
+	font-size:16px;
+	color: black;
+
+}
+section{
+	border:1px solid black;
+	background-color: #00FF99;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+#chicken {
+	border: 1px solid black;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #6495ED;
+	color: white;
+	padding: 5px;
+}
+#beef {
+	border: 1px solid black;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #6495ED;
+	color: white;
+	padding: 5px;
+}
+#sushi {
+	border: 1px solid black;
+	width: 30%;
+	margin-left: 70%;
+	font-family: Georgia,sans-serif;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	background-color: #6495ED;
+	color: white;
+	padding: 5px;
+}
+.row
+{
+	width:100%;
+}
+#chicken-div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+#beef-div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+#sushi-div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+  float: right;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
